@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/828491033092241739/08b7b1bd148747d799f5523ee7b2bf60/artifacts
+end_time: 1755006755699
+entry_point_name: ''
+experiment_id: '828491033092241739'
+lifecycle_stage: active
+run_id: 08b7b1bd148747d799f5523ee7b2bf60
+run_name: beautiful-bear-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755006739668
+status: 3
+tags: []
+user_id: karna

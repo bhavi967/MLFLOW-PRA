@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/426508171368500146/ed4d71516e674c619df3979f9bf6d916/artifacts
+end_time: 1754924422915
+entry_point_name: ''
+experiment_id: '426508171368500146'
+lifecycle_stage: active
+run_id: ed4d71516e674c619df3979f9bf6d916
+run_name: charming-lark-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754924422577
+status: 3
+tags: []
+user_id: karna

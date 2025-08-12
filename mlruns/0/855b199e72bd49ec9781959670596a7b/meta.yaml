@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/0/855b199e72bd49ec9781959670596a7b/artifacts
+end_time: 1754923005723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 855b199e72bd49ec9781959670596a7b
+run_name: learned-hound-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754923004361
+status: 3
+tags: []
+user_id: karna

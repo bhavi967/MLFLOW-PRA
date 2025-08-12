@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426508171368500146/5b767555d91746a6a036d725ee58bfa1/artifacts
+deleted_time: 1754924438130
+end_time: 1754924387464
+entry_point_name: ''
+experiment_id: '426508171368500146'
+lifecycle_stage: deleted
+run_id: 5b767555d91746a6a036d725ee58bfa1
+run_name: stately-ox-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754924387201
+status: 4
+tags: []
+user_id: karna

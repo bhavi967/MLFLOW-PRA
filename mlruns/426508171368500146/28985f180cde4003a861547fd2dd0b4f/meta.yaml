@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/426508171368500146/28985f180cde4003a861547fd2dd0b4f/artifacts
+deleted_time: 1754924233526
+end_time: 1754924146634
+entry_point_name: ''
+experiment_id: '426508171368500146'
+lifecycle_stage: deleted
+run_id: 28985f180cde4003a861547fd2dd0b4f
+run_name: treasured-snail-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754924146368
+status: 4
+tags: []
+user_id: karna
