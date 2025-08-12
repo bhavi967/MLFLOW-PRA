@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/956741961574624073
+creation_time: 1755008575742
+experiment_id: '956741961574624073'
+last_update_time: 1755008575742
+lifecycle_stage: active
+name: breast-cancer-rf-hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/956741961574624073/e3417817b31249c29d060595dc1bf6fc/artifacts
+end_time: 1755008578889
+entry_point_name: ''
+experiment_id: '956741961574624073'
+lifecycle_stage: active
+run_id: e3417817b31249c29d060595dc1bf6fc
+run_name: unequaled-lynx-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755008578837
+status: 3
+tags: []
+user_id: karna

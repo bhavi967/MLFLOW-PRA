@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/956741961574624073/27d0c8838bd5452fbd1a81cd1ad982b5/artifacts
+end_time: 1755008579063
+entry_point_name: ''
+experiment_id: '956741961574624073'
+lifecycle_stage: active
+run_id: 27d0c8838bd5452fbd1a81cd1ad982b5
+run_name: hilarious-mink-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755008579009
+status: 3
+tags: []
+user_id: karna

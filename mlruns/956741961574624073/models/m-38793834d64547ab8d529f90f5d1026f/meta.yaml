@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/956741961574624073/models/m-38793834d64547ab8d529f90f5d1026f/artifacts
+creation_timestamp: 1755008579213
+experiment_id: '956741961574624073'
+last_updated_timestamp: 1755008583325
+model_id: m-38793834d64547ab8d529f90f5d1026f
+model_type: null
+name: random_forest
+source_run_id: 0628237987ba4564a22992eceecdc276
+status: 2
+status_message: null

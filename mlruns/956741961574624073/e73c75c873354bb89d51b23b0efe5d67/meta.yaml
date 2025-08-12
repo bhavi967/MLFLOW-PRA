@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karna/OneDrive/Desktop/MLOPS-YT/MLFLOW-PRA/mlruns/956741961574624073/e73c75c873354bb89d51b23b0efe5d67/artifacts
+end_time: 1755008578779
+entry_point_name: ''
+experiment_id: '956741961574624073'
+lifecycle_stage: active
+run_id: e73c75c873354bb89d51b23b0efe5d67
+run_name: resilient-mouse-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755008578724
+status: 3
+tags: []
+user_id: karna
